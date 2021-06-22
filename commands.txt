@@ -27,3 +27,6 @@ git checkout name1
   265  history
 git log
 git log --oneline
+git pull
+git push
+
