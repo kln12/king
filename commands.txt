@@ -25,3 +25,5 @@ git checkout name1
   263  git push origin name1
   264  ls -la
   265  history
+git log
+git log --oneline
