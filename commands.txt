@@ -1,0 +1,22 @@
+git init
+  214  ls -la
+  215  git clone https://github.com/kln12/king.git
+  216  ls -la
+  217  git branch
+  218  cd king
+  219  git branch
+  220  git branch name
+  221  git branch
+  223  git checkout name
+  224  ls -la
+  225  git branch
+  226  touch m1.txt
+  227  git status
+  228  git add .
+  229  git status
+  230  git commit -m "file"
+  231  git status
+  232  git push
+  233      git push --set-upstream origin name
+  234  git push --set-upstream origin name
+
