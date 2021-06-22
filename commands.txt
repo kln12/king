@@ -6,7 +6,7 @@ git init
   218  cd king
   219  git branch
   220  git branch name
-  221  git branch
+  221  git branchi
   223  git checkout name
   224  ls -la
   225  git branch
@@ -19,4 +19,9 @@ git init
   232  git push
   233      git push --set-upstream origin name
   234  git push --set-upstream origin name
-
+git merge from one branch to another branch
+git checkout name1
+  262  git merge name
+  263  git push origin name1
+  264  ls -la
+  265  history
